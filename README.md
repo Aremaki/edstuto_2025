@@ -23,10 +23,10 @@ Please follow theses instructions:
 4. Using the terminal, access the cloned file
 `cd edstuto`
 5. Install the required packages with [uv](https://docs.astral.sh/uv/):
-`pip install uv==0.7.8`
-`uv venv --python 3.11.9`
-`source .venv/bin/activate`
-`uv sync`
+- `pip install uv==0.7.8`
+- `uv venv --python 3.11.9`
+- `source .venv/bin/activate`
+- `uv sync`
 
 NB: For VS Code users, in order to see clearly the plots, it is recommended to enable the Theme Matplotlib Plots in your setting > Extensions > Jupyter.
 
